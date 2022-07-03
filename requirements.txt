@@ -6,6 +6,7 @@ lxml>=4.5.1
 yfinance>=0.1.72
 Cython>=0.22
 cmdstanpy>=0.9.5
+pystan>=2.18.0.0
 matplotlib>=2.0.0
 LunarCalendar>=0.0.9
 convertdate>=2.1.2
